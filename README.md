@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding my first Internship**
 
-- 📫 IDK why would you want to but Contact Me: **yusufyn04@gmail.com**
+- 📫 Contact Me: **yusufyn04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
