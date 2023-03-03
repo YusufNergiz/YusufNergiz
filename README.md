@@ -1,5 +1,4 @@
 <h1 align="center">Sup 👋, It's Yussuf Nergiz .</h1>
-<h3 align="center">Grinding for an intern in a big company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufnergiz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufnergiz" /> </p>
 
@@ -10,6 +9,10 @@
 - 🤝 I’m looking for help with **finding my first Internship**
 
 - 📫 Contact Me: **yusufyn04@gmail.com**
+
+- Check out my Website:
+- https://portfolio-site-4vot-a4u92xrhv-yusufnergiz.vercel.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
