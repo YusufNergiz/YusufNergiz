@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufnergiz" alt="yusufnergiz" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Kotlin, AndroidStudio, HTML, CSS, C#.**
-
-- 🤝 I’m looking for help with **finding my first Internship**
+- 🌱 Currently interested in Front-End Development
 
 - 📫 Contact Me: **yusufyn04@gmail.com**
 
