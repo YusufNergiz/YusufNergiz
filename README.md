@@ -9,6 +9,7 @@
 - 📫 Contact Me: **yusufyn04@gmail.com**
 
 - Check out my Website:
+- ![](images/Capture.PNG)
 - https://portfolio-site-4vot-a4u92xrhv-yusufnergiz.vercel.app/
 
 
