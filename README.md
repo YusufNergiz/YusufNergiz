@@ -10,7 +10,7 @@
 
 - Check out my Website:
 - ![](images/Capture.PNG)
-- https://portfolio-site-4vot-a4u92xrhv-yusufnergiz.vercel.app/
+- https://yussufnergiz.vercel.app
 
 
 <h3 align="left">Connect with me:</h3>
