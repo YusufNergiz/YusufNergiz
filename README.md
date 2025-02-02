@@ -1,9 +1,5 @@
 <h1 align="center">Sup 👋, It's Yussuf Nergiz .</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufnergiz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufnergiz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufnergiz" alt="yusufnergiz" /></a> </p>
-
 - 📫 Contact Me: **yusufyn04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
