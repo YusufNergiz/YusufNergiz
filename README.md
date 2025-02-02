@@ -5,7 +5,7 @@
 
 - 👯 Software House [Quick Launch Designs](https://quicklaunchdesigns.com/)
 
-- 🤝 I’m currently working on **Sleek Launch**
+- 🤝 I’m currently working on **Sleek Launch**, a drag and drop website builder using Awwwards winning components.
 
 - 📝 I try to write articles on [https://yussufnergiz.beehiiv.com/subscribe](https://yussufnergiz.beehiiv.com/subscribe)
 
