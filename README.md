@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yussuf Nergoz</h1>
+<h1 align="center">Hi 👋, I'm Yussuf Nergiz</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 SaaS 1 [Quick Table Scan](https://quicktablescan.com/)
