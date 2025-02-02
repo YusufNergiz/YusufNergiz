@@ -4,14 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufnergiz" alt="yusufnergiz" /></a> </p>
 
-- 🌱 Currently interested in Front-End Development
-
 - 📫 Contact Me: **yusufyn04@gmail.com**
-
-- Check out my Website:
-- ![](images/Capture.PNG)
-- https://yussufnergiz.vercel.app
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
